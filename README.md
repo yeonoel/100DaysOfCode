@@ -20,7 +20,7 @@ Last plan: I plan to work on python and Java as long as I am proud of my Progres
 
 **Thoughts**: It's really the basics nothing too complicated at this point.
 
-## Day 2: Oct. 13, 2022| [JavaScript Basics] (https://twitter.com/ARNAZAKASH/status/1580715628985749505)
+## Day 2: Oct. 13, 2022| [JavaScript Basics](https://twitter.com/ARNAZAKASH/status/1580715628985749505)
 **Today's progress** : One hour to continue the basics of JavaScript.
 
 **Thoughts**: these are the basics and like a house I stay focused to have a good base
