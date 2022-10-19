@@ -46,3 +46,10 @@ Last plan: I plan to work on python and Java as long as I am proud of my Progres
 		      One hour to continue the basics of JavaScript up to 85%
 
 **Thinkings**: ... 
+
+
+## Day 7: Oct. 18, 2022| [FreeCodeCamp JavaScript Basics](https://twitter.com/ARNAZAKASH/status/1582692414070075393)
+**Today's progress**: One hour to continue the basics of JavaScript up to 93%
+
+**Thinkings**: ... while loop, for, Recursion
+
