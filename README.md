@@ -29,3 +29,20 @@ Last plan: I plan to work on python and Java as long as I am proud of my Progres
 **Today's progress**: One hour to continue the basics of JavaScript up to 66%
 
 **Thinkings**: ...
+
+## Day 4: Oct. 15, 2022| [FreeCodeCamp JavaScript Basics](https://twitter.com/ARNAZAKASH/status/1581452772192313344)
+**Today's progress**: One hour to continue the basics of JavaScript up to 72%
+
+**Thinkings**: ...
+
+## Day 5: Oct. 16, 2022| [FreeCodeCamp JavaScript Basics](https://twitter.com/ARNAZAKASH/status/1581984753997484034)
+**Today's progress**: how to create an object in javascript, when to create an object? What is its particularity. and how do objects work in JavaScript.
+                      One hour to continue the basics of JavaScript up to 85%. One hour to continue the basics of JavaScript up to 81%
+
+**Thinkings**: ... The basics of how objects work in javascript seems to me very interesting in the sense that I can create a single variable and put several data in it.
+
+## Day 6: Oct. 17, 2022| [FreeCodeCamp JavaScript Basics](https://twitter.com/ARNAZAKASH/status/1582665191950815234)
+**Today's progress**: how to create an object in javascript, when to create an object? What is its particularity. and how do objects work in JavaScript.
+		      One hour to continue the basics of JavaScript up to 85%
+
+**Thinkings**: ... 
